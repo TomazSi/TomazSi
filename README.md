@@ -6,7 +6,7 @@
 ## Education
 
 - **Fakulteta za elektrotehniko, računalništvo in informatiko Univerze v Mariboru**, Računalništvo in informacijske tehnologije (VŠ)
-  - 2nd year
+  - 3nd year
   - Relevant Coursework: Data Structures, Algorithms, Software Engineering, Databases, Operating Systems
 
 ## 🛠️ Skills
