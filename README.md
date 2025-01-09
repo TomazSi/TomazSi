@@ -19,8 +19,8 @@
 - **C**
 
 ### Technologies & Frameworks
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Databases**: MySQL, MongoDB
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases**: MySQL
 - **Version Control**: Git, GitHub
 - **Project Managment**: Jira
 
